@@ -18,7 +18,7 @@ on:
   workflow_dispatch:
 env:
   KUBE_SCORE_VERSION: 1.16.1
-  HELM_VERSION: v3.8.0
+  HELM_VERSION: v3.17.0
 
 permissions:
   contents: read
